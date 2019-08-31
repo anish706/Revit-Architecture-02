@@ -4,7 +4,7 @@ Autodesk Revit is BIM(Building Information Modelling) software for architects, c
 
 3D Building Designs with Revit
 
-Building Architecture Design 01 - "final project2.rvt"
+Building Architecture Design 02 - "final project2.rvt"
 
 Screen 1: Floor Plan ![Floor Plan](https://github.com/anish706/Revit-Architecture-02/blob/master/Screenshots/plan.PNG)
 
